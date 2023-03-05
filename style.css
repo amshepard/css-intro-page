@@ -1,0 +1,17 @@
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+h1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: normal;
+    font-size: 1.5em;
+}
+img {
+    max-width: 50%;
+}
+p { 
+    max-width: 56%;
+}
